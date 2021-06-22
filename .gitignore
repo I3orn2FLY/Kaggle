@@ -1,0 +1,7 @@
+.idea
+sandbox.py
+*.pyc
+*.pt
+*.csv
+*.pt
+*.pdf
